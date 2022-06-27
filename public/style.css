@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+
+.text-header{
+  font-family: inherit;
+  color: #f2db18;
+  font-weight: 800;
+}
+
+.text-body{
+  font-family: inherit;
+  color: #154492;
+  font-weight: 800;
+}
